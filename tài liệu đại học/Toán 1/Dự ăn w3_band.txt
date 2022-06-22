@@ -1,0 +1,10 @@
+Phân tích dự án "The band":
+   Những thành phần:
+       1.Header
+       2.Slider
+       3.Content
+	+About
+	+Tour
+	+Contact
+	+Image
+       4.Footer
